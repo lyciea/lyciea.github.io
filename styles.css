@@ -1,0 +1,52 @@
+body {
+background-image: url('background.gif');
+color: #fff;
+font-family: 'Open Sans', sans-serif;
+font-size: 15px;
+letter-spacing: 1px;
+}
+.profile-picture {
+border-radius: 50%;
+display: block;
+margin-left: auto;
+margin-right: auto;
+margin-top: 8%;
+height: auto;
+max-width: 200px;
+}
+.profile-name {
+text-align: center;
+padding: 30px;
+}
+.discord {
+display: inline-block;
+margin-left: 43%;
+margin-right: auto;
+margin-top: -16px;
+max-width: 4%;
+height: auto;
+}
+.spotify {
+margin-left: 48.75%;
+margin-right: auto;
+margin-top: -40px;
+max-width: 3%;
+height: auto;
+}
+.verified {
+margin-left: 51.40%;
+margin-top: -47px;
+max-width: 2%;
+height: auto;
+}
+.spotembed {
+display: block;
+margin-top: 40px;
+margin-left: 35%;
+}
+.soundcloud {
+margin-top: -40px;
+margin-left: 54%;
+margin-right: auto;
+max-width: 3%;
+}
